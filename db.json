@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
     {
         id:1,
         title:"2 bedroom house for rent in Dubai",
@@ -80,3 +81,5 @@
         icon:"fas fa-bus",
     }
 ]
+
+}
